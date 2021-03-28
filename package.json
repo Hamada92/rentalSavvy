@@ -1,0 +1,12 @@
+{
+  "name": "rentalSavvy",
+  "version": "1.0.0",
+  "description": "api to know what rental prices are like these days",
+  "main": "app.js",
+  "repository": "git@github.com:Hamada92/rentalSavvy.git",
+  "author": "Ahmad",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
